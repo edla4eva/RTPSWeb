@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'rtps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E1E8B2E520A04E388A9713D9DD3BE779 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BA7431266874DFF96B77084B13B8710 }}
           package: .
