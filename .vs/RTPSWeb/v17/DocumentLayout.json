@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1831B8D8-8FF6-42FC-BB2D-E32E7136AE47}|RTPSWeb.vbproj|c:\\users\\eddie\\documents\\olaye envy\\rtps\\rtps_reboot\\rtpswinuimvvm\\rtpsweb\\controllers\\appcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1831B8D8-8FF6-42FC-BB2D-E32E7136AE47}|RTPSWeb.vbproj|solutionrelative:controllers\\appcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1831B8D8-8FF6-42FC-BB2D-E32E7136AE47}|RTPSWeb.vbproj|c:\\users\\eddie\\documents\\olaye envy\\rtps\\rtps_reboot\\rtpswinuimvvm\\rtpsweb\\controllers\\homecontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1831B8D8-8FF6-42FC-BB2D-E32E7136AE47}|RTPSWeb.vbproj|solutionrelative:controllers\\homecontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1831B8D8-8FF6-42FC-BB2D-E32E7136AE47}|RTPSWeb.vbproj|c:\\users\\eddie\\documents\\olaye envy\\rtps\\rtps_reboot\\rtpswinuimvvm\\rtpsweb\\app_start\\filterconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1831B8D8-8FF6-42FC-BB2D-E32E7136AE47}|RTPSWeb.vbproj|solutionrelative:app_start\\filterconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1831B8D8-8FF6-42FC-BB2D-E32E7136AE47}|RTPSWeb.vbproj|c:\\users\\eddie\\documents\\olaye envy\\rtps\\rtps_reboot\\rtpswinuimvvm\\rtpsweb\\app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1831B8D8-8FF6-42FC-BB2D-E32E7136AE47}|RTPSWeb.vbproj|solutionrelative:app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppController.vb",
+              "DocumentMoniker": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\Controllers\\AppController.vb",
+              "RelativeDocumentMoniker": "Controllers\\AppController.vb",
+              "ToolTip": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\Controllers\\AppController.vb",
+              "RelativeToolTip": "Controllers\\AppController.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T19:50:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.vb",
+              "DocumentMoniker": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\Controllers\\HomeController.vb",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.vb",
+              "ToolTip": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\Controllers\\HomeController.vb",
+              "RelativeToolTip": "Controllers\\HomeController.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T19:50:42.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterConfig.vb",
+              "DocumentMoniker": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\App_Start\\FilterConfig.vb",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.vb",
+              "ToolTip": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\App_Start\\FilterConfig.vb",
+              "RelativeToolTip": "App_Start\\FilterConfig.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T19:50:27.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.vb",
+              "DocumentMoniker": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\App_Start\\RouteConfig.vb",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.vb",
+              "ToolTip": "C:\\Users\\eddie\\Documents\\Olaye Envy\\RTPS\\RTPS_Reboot\\RTPSWinUIMVVM\\RTPSWeb\\App_Start\\RouteConfig.vb",
+              "RelativeToolTip": "App_Start\\RouteConfig.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T19:50:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
