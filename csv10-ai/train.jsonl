@@ -1,0 +1,4 @@
+{"instruction": "Compare: File1: Alice 2023-001 | File2: Alice 2023-010", "output": "Correct Alice's matric number from 2023-010 to 2023-001."}
+{"instruction": "Compare: File1: Bob 2023-002 | File2: Bob 2023-020", "output": "Correct Bob's matric number from 2023-020 to 2023-002."}
+{"instruction": "Compare: File1: Charlie 2023-003 | File2: Charlie 2023-003", "output": "Charlie's matric number matches. No correction needed."}
+{"instruction": "Compare: File1: Diana 2023-004 | File2: Diana 2023-044", "output": "Correct Diana's matric number from 2023-044 to 2023-004."}
