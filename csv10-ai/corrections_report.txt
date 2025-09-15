@@ -1,0 +1,10 @@
+CSV Corrections Report
+======================
+Timestamp: 2025-09-10T11:48:33.657620
+Original candidate file archived (if changes): yes
+Corrections made: 2
+Additions made: 0
+
+John Doe: corrected MatricNo 2021010 -> 2021001 | AI: CSV1 (reference): Name = John Doe, MatricNo = 2021010 CSV2 (candidate): Name = John Doe, MatricNo = 2021010
+Jane Smith: no change needed | AI: CSV1 (reference): Name = Jane Smith, MatricNo = 2021025 CSV2 (candidate): Name = Jane Smith, MatricNo = 2021025
+Michael Lee: corrected MatricNo 2021180 -> 2021105 | AI: CSV1 (reference): Name = Michael Lee, MatricNo = 2021105 CSV2 (candidate): Name = Michael Lee, MatricNo = 2021180
